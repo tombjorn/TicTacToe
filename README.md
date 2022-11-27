@@ -4,4 +4,4 @@ TicTacToeV1 - Multiple improvements throughout the build process, starting off w
 
 PrototypeCPU - Implementing a simple 'machine learning' system for human vs CPU.
 
-TTTvCPU - Ended up scrapping the prototype algorithm, going for a simpler method. Weighing then organising the patterns by weight, picking the max, and cycleing through the corresponding pattern.
+TTTvCPU - Ended up scrapping the prototype algorithm, going for what feels like a sleeker or more elegant method. Weighing then organising the patterns by weight, picking the max, and cycleing through the corresponding pattern.
