@@ -1,4 +1,4 @@
-# My AI overlord sits before me, but like most games of Tic Tac Toe, can be beaten by starting in the middle.
+# My AI overlord sits before me, but like most games of Tic Tac Toe; can be beaten by starting in the middle.
 
 from threading import Event
 import os
